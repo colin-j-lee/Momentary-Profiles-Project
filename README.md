@@ -1,7 +1,7 @@
 
 ## Overview
 
-This repository contains all the code and resulting figures and tables of the Idiographic Facet Profiles Across Time project.
+This repository contains all the data, code, and resulting figures and tables of the Idiographic Facet Profiles Across Time project.
 
 ## Codebooks
 The codebooks providing informaiton on each variable for each sample are in the codebooks folder. These are also loaded and used in the analysis code below.
